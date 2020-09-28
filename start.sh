@@ -13,4 +13,4 @@ az vm create \
     --name myVM \
     --image win2016datacenter \
     --admin-username adminlogin
-    -admin-password asferw;jsdfiweke1_
+    --admin-password asferw;jsdfiweke1_
