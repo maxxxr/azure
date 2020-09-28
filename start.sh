@@ -12,5 +12,5 @@ az vm create \
     --resource-group $RESOURCE_GROUP \
     --name myVM \
     --image win2016datacenter \
-    --admin-username admin
+    --admin-username adminlogin
     -admin-password asferw;jsdfiweke1_
